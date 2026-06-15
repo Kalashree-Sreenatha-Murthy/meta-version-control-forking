@@ -1,1 +1,1 @@
-Version Control Certification Course
+Version Control Certificate
